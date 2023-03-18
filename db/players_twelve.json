@@ -1,10 +1,10 @@
 [
   {
     "role": "Delantero",
-    "firstName": "Mauricio",
-    "lastName": "del Castillo",
+    "firstName": "M.",
+    "lastName": "Del Castillo",
     "image": "kunisports-Kunisports_96.webp",
-    "name": "Mauricio del Castillo",
+    "name": "M. Del Castillo",
     "id": "kunisports-Kunisports_96",
     "team": {
       "id": "kunisports",
@@ -85,10 +85,10 @@
   },
   {
     "role": "Medio",
-    "firstName": "Armando",
+    "firstName": "Mandi",
     "lastName": "Sosa",
     "image": "rayo-barcelona-RayoBCN_3.webp",
-    "name": "Armando Sosa",
+    "name": "Mandi Sosa",
     "id": "rayo-barcelona-RayoBCN_3",
     "team": {
       "id": "rayo-barcelona",
@@ -378,34 +378,6 @@
     }
   },
   {
-    "role": "Delantero",
-    "firstName": "David",
-    "lastName": "Acedo",
-    "image": "aniquiladores-fc-7.webp",
-    "name": "David Acedo",
-    "id": "aniquiladores-fc-7",
-    "team": {
-      "id": "aniquiladores-fc",
-      "name": "Aniquiladores FC",
-      "image": "https://kingsleague.dev/teams/logos/aniquiladores.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/aniquiladores-inverse.svg"
-    }
-  },
-  {
-    "role": "Delantero",
-    "firstName": "Ibai",
-    "lastName": "Gómez",
-    "image": "jijantes-fc-11.webp",
-    "name": "Ibai Gómez",
-    "id": "jijantes-fc-11",
-    "team": {
-      "id": "jijantes-fc",
-      "name": "Jijantes FC",
-      "image": "https://kingsleague.dev/teams/logos/jijantes.svg",
-      "imageWhite": "https://kingsleague.dev/teams/logos/jijantes-inverse.svg"
-    }
-  },
-  {
     "role": "Medio",
     "firstName": "Víctor",
     "lastName": "Sánchez",
@@ -459,6 +431,34 @@
       "name": "XBUYER TEAM",
       "image": "https://kingsleague.dev/teams/logos/xbuyer.svg",
       "imageWhite": "https://kingsleague.dev/teams/logos/xbuyer-inverse.svg"
+    }
+  },
+  {
+    "role": "Delantero",
+    "firstName": "David",
+    "lastName": "Acedo",
+    "image": "aniquiladores-fc-7.webp",
+    "name": "David Acedo",
+    "id": "aniquiladores-fc-7",
+    "team": {
+      "id": "aniquiladores-fc",
+      "name": "Aniquiladores FC",
+      "image": "https://kingsleague.dev/teams/logos/aniquiladores.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/aniquiladores-inverse.svg"
+    }
+  },
+  {
+    "role": "Delantero",
+    "firstName": "Ibai",
+    "lastName": "Gómez",
+    "image": "jijantes-fc-11.webp",
+    "name": "Ibai Gómez",
+    "id": "jijantes-fc-11",
+    "team": {
+      "id": "jijantes-fc",
+      "name": "Jijantes FC",
+      "image": "https://kingsleague.dev/teams/logos/jijantes.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/jijantes-inverse.svg"
     }
   },
   {
