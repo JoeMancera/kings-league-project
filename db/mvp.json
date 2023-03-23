@@ -40,10 +40,18 @@
     "image": "https://kingsleague.dev/teams/logos/kunisports.svg"
   },
   {
-    "playerName": "Verdú, J.",
-    "gamesPlayed": 8,
+    "playerName": "E. Álvaro",
+    "gamesPlayed": 11,
     "mvps": 3,
     "rank": 6,
+    "team": "Los Troncos FC",
+    "image": "https://kingsleague.dev/teams/logos/los-troncos.svg"
+  },
+  {
+    "playerName": "J. Verdú",
+    "gamesPlayed": 9,
+    "mvps": 3,
+    "rank": 7,
     "team": "Los Troncos FC",
     "image": "https://kingsleague.dev/teams/logos/los-troncos.svg"
   },
@@ -51,7 +59,7 @@
     "playerName": "Lopo",
     "gamesPlayed": 11,
     "mvps": 3,
-    "rank": 7,
+    "rank": 8,
     "team": "PIO FC",
     "image": "https://kingsleague.dev/teams/logos/pio.svg"
   },
@@ -59,7 +67,7 @@
     "playerName": "Briones",
     "gamesPlayed": 10,
     "mvps": 3,
-    "rank": 8,
+    "rank": 9,
     "team": "Saiyans FC",
     "image": "https://kingsleague.dev/teams/logos/saiyans-fc.svg"
   },
@@ -67,7 +75,7 @@
     "playerName": "Pol",
     "gamesPlayed": 10,
     "mvps": 2,
-    "rank": 9,
+    "rank": 10,
     "team": "Jijantes FC",
     "image": "https://kingsleague.dev/teams/logos/jijantes.svg"
   },
@@ -75,17 +83,9 @@
     "playerName": "Coro",
     "gamesPlayed": 11,
     "mvps": 2,
-    "rank": 10,
+    "rank": 11,
     "team": "Kunisports",
     "image": "https://kingsleague.dev/teams/logos/kunisports.svg"
-  },
-  {
-    "playerName": "Álvaro, E.",
-    "gamesPlayed": 10,
-    "mvps": 2,
-    "rank": 11,
-    "team": "Los Troncos FC",
-    "image": "https://kingsleague.dev/teams/logos/los-troncos.svg"
   },
   {
     "playerName": "R. Carbó",
@@ -200,8 +200,8 @@
     "image": "https://kingsleague.dev/teams/logos/kunisports.svg"
   },
   {
-    "playerName": "Lechuga, P.",
-    "gamesPlayed": 10,
+    "playerName": "P. Lechuga",
+    "gamesPlayed": 11,
     "mvps": 1,
     "rank": 26,
     "team": "Los Troncos FC",
