@@ -15,6 +15,20 @@
   },
   {
     "role": "Delantero",
+    "firstName": "Mauricio",
+    "lastName": "del Castillo",
+    "image": "kunisports-Kunisports_96.webp",
+    "name": "Mauricio del Castillo",
+    "id": "kunisports-Kunisports_96",
+    "team": {
+      "id": "kunisports",
+      "name": "Kunisports",
+      "image": "https://kingsleague.dev/teams/logos/kunisports.svg",
+      "imageWhite": "https://kingsleague.dev/teams/logos/kunisports-inverse.svg"
+    }
+  },
+  {
+    "role": "Delantero",
     "firstName": "Fernandão",
     "lastName": "",
     "image": "saiyans-fc-Saiyans_6.webp",
